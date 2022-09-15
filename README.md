@@ -29,8 +29,6 @@ O desafio consiste no desenvolvimento do layout de uma landing page com uma grad
 
 ## ⚙️ Rodando o projeto
 
-### Para rodar o projeto você irá precisar ter instalado o Git, NodeJS versão >= _16.0_ e um gerenciador de pacotes **(Yarn ou NPM)**
-
 <br>
 
 #### 1️⃣ Clone este repositório
