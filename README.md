@@ -47,14 +47,3 @@ O desafio consiste no desenvolvimento do layout de uma landing page com uma grad
 
 #### O projeto estará rodando em http://localhost:5173
 ```
-
-## **👩‍💻 Autor(a)**; 
-
-<table>
-  <tr align="center">
-      <a href="https://github.com/gabisegger">
-          <img src="https://avatars.githubusercontent.com/u/96390723" width="100px;" alt="Foto de perfil do Github"/><br>
-          <sub><b>Gabriela Segger Caruso</b></sub>
-      </a>
-  </tr> 
-</table>
