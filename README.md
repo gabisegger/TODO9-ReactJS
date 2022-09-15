@@ -1,16 +1,31 @@
-# Todo 9 - Baseado no desafio do processo seletivo da front da Linx Impulse
+<h1 align="center">Todo 9 - Baseado no desafio do processo seletivo da front da Linx Impulse</h1>
 
-### O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter. O principal objetivo é transformar este layout em uma página funcional.
+<div id="inicio" align=center>
+<h2><strong>Status do Projeto</strong></h2>
 
-<br>
+  ![Badge](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+</div> 
 
-<br>
-<br>
+<h2 align="center"><strong>Tecnologias Utilizadas</strong></h2>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Tag Vite">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Tag React">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Tag CSS3">
+    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Tag Yarn">
+</div>
+
+## **📚 Sobre** <br>
+
+O desafio consiste no desenvolvimento do layout de uma landing page com uma grade de produtos e um formulário de newsletter. O principal objetivo é transformar este layout em uma página funcional.
+
+👩‍💻 Projeto desenvolvido durante o módulo 5 do curso de  **Web Dev Fullstack** oferecido pela [Resilia Educação](https://www.resilia.com.br/). 
+
+## 💻 Requerimentos para rodar aplicação localmente
+
+- [Node.Js](https://node.js.org/) instalado
+- [Npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) instalado
 
 ## ⚙️ Rodando o projeto
 
@@ -19,16 +34,27 @@
 <br>
 
 #### 1️⃣ Clone este repositório
-```$ git clone ```
+```$ git clone https://github.com/gabisegger/TODO9-ReactJS.git```
 
 #### 2️⃣ Acesse a pasta do projeto no terminal/cmd
-```$ cd ```
+```$ cd TODO9-ReactJS```
 
 #### 3️⃣ Instale as dependências
-```$ npm install```
+```$ npm install``` ou ```$ yarn install```
 
 #### 4️⃣ Execute a aplicação
-```$ npm run dev```
+```$ npm run dev``` ou ```$ yarn dev```
 
-# O projeto estará rodando em http://localhost:5173
+#### O projeto estará rodando em http://localhost:5173
 ```
+
+## **👩‍💻 Autor(a)**; 
+
+<table>
+  <tr align="center">
+      <a href="https://github.com/gabisegger">
+          <img src="https://avatars.githubusercontent.com/u/96390723" width="100px;" alt="Foto de perfil do Github"/><br>
+          <sub><b>Gabriela Segger Caruso</b></sub>
+      </a>
+  </tr> 
+</table>
